@@ -1,6 +1,10 @@
-# custom-event
+[gh-pages](https://shanegibney.github.io/vue-custom-event/)
 
-> Custom event from child to parent component
+[My blog post on this topic](http://www.shanegibney.com/shanegibney/vue-custom-event/)
+
+# vue-custom-event
+
+> A Vue.js project
 
 ## Build Setup
 
@@ -19,4 +23,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-custom-event
