@@ -2,7 +2,7 @@
   <div id="app">
     <h1>I am the parent component</h1>
     <h2>Custom event</h2>
-    <Child :people="people" @remove="removePeople"/>
+    <Child :people="people" @delete="removePeople"/>
   </div>
 </template>
 

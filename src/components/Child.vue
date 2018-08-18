@@ -19,7 +19,7 @@ export default {
   },
   methods: {
     remove(name){
-      this.$emit('remove', {name})
+      this.$emit('delete', {name})
     }
   }
 }
